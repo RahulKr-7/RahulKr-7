@@ -19,5 +19,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-[![](https://visitcount.itsvg.in/api?id=RahulKr-7&icon=7&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://komarev.com/ghpvc/?username=RahulKr-7&color=blue)
+
 
